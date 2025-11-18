@@ -24,7 +24,7 @@ from telegram.ext import (
 
 # DO NOT hardcode your token here.
 # Put your token in GitHub Secrets → BOT_TOKEN
-BOT_TOKEN = os.environ.get("BOT_TOKEN")
+BOT_TOKEN = os.environ.get("8183535358:AAFJqa1yNC3EqwlwcTPHArjH_GzIrpSa2Qw")
 
 # Admin ID can stay in code (not sensitive)
 ADMIN_CHAT_ID = 7888759188
