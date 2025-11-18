@@ -1,0 +1,7 @@
+python-telegram-bot==13.14
+opencv-python-headless
+face_recognition
+numpy
+Pillow
+aiohttp
+dlib
