@@ -40,7 +40,7 @@ jobs:
       - name: Start Telegram Bot
         timeout-minutes: 350   # 5 hours
         env:
-          BOT_TOKEN: ${{ secrets.8055104942:AAFOvfFkXKJzxRQypAsP2v02zlCLjhmhggc }}   # Tum yaha add karoge
+          BOT_TOKEN: ${{ secrets. }}   # Tum yaha add karoge
           ADMIN_CHAT_ID: "7888759188"           # MAIN NE ADD KAR DIYA
         run: |
           python3 consensual_face_swap_bot.py
